@@ -1,0 +1,18 @@
+body {
+	color: blue;
+	text-align: center;
+	background-image: url(http://fw010356-flywheel.netdna-ssl.com/wp-content/uploads/2015/08/gone-fishin.jpg);
+	background-size: 100% ;
+	background-repeat: no-repeat;
+}
+
+.container-fluid{
+	display: inline-block;
+}
+
+.jumbotron {
+	background-color: #F0F8FF;
+
+}
+
+
